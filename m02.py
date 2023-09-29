@@ -15,5 +15,5 @@ c:int = int(input('"c" oldal hossza (cm): '))
 k:int = a + b + c
 print(f'háromszög kerülete: {k} cm')
 s:float = k/2
-t = (s * (s-a) * (s-b) * (s-c)) ** .5
+t:float = (s * (s-a) * (s-b) * (s-c)) ** .5
 print(f'háromszög területe: {t} cm^2')

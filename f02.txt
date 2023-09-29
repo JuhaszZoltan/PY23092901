@@ -1,0 +1,5 @@
+# írj programot, ami kiszámolja a téglalap kerületét és területét (két szomszédos oldalhosszának megadása után)
+
+# írj programot, ami kiszámolja a kör kerületét és területét (sugár hosszának megadása után)
+
+# írj programot, ami kiszámolja a háromszög kerületét és területét (3 oldal hosszának megadása után)
